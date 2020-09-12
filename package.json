@@ -1,0 +1,20 @@
+{
+  "name": "EqualPlus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/noeulnight/EqualPlus.git",
+  "author": "Noeul <noeulnight.mail@gmail.com>, Park Min Hyeok <pmhstudio.pmh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "discord-oauth2": "^2.3.0",
+    "discord.js": "^12.3.1",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.5",
+    "moment": "^2.27.0",
+    "mysql": "^2.18.1",
+    "socket.io": "^2.3.0",
+    "uuid": "^8.3.0"
+  }
+}

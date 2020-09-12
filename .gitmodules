@@ -1,0 +1,3 @@
+[submodule "web/src"]
+	path = web/src
+	url = https://github.com/noeulnight/EqualPlus-Front.git
